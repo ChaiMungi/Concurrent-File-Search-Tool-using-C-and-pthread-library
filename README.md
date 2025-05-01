@@ -1,4 +1,4 @@
-# Concurrent-File-Search-Tool-using-C-and-pthread-library
+# Concurrent-text-Search-Tool-using-C-and-pthread-library
 
 🚀 Project Update: I’ve developed a custom grep-like tool for Linux, leveraging multithreading to significantly improve search performance.
 
